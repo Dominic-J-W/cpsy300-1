@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 env:
-  ACR_NAME: acrcpsy300team12005
+  ACR_NAME: acrcpsy300eam12005
   RESOURCE_GROUP: rg-cpsy300-project-team1
   CONTAINERAPP: ca-recipes-team1
 
